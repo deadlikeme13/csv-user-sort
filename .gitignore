@@ -41,6 +41,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Temp Files
+temp_data/
+temp_files/
+
 # TypeScript v1 declaration files
 typings/
 

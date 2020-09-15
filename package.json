@@ -1,0 +1,17 @@
+{
+  "name": "coding_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Olena Makovey",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "csv-reader": "^1.0.6",
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security"
+  }
+}
