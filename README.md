@@ -3,6 +3,7 @@
 Take a .csv file and sort each user in the file based on their address and create a file for each unique country.
 
 The headers for the file should be:
+
 id, first_name, last_name, email, address, country, postal
 
 Columns data follows the following rules:
@@ -13,7 +14,7 @@ Columns data follows the following rules:
 - country - string 2-3 characters long, capitals only
 - postal - string between 4-8 characters, uppercase letters only
 
-If any column is missing or does not contain valid data that record is placed in the errors.csv file:
+If any column is missing or does not contain valid data that record is placed in the errors.csv file.
 
 If postal code does not match country that record is placed in the bad_address.csv file:
 - US = 12345
