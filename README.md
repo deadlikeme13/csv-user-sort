@@ -16,6 +16,6 @@ Columns data follows the following rules:
 If any column is missing or does not contain valid data that record is placed in the errors.csv file:
 
 If postal code does not match country that record is placed in the bad_address.csv file:
-US = 12345
-CND = A1A 1A1 || A1A1A1 || A1A-1A1
-Other countries = any valid postal should be accepted
+- US = 12345
+- CND = A1A 1A1 || A1A1A1 || A1A-1A1
+- Other countries = any valid postal should be accepted
